@@ -1,5 +1,5 @@
 <h1 align="center">
-  GMBF
+  WMBF
 </h1>
 </div>
 <p align="center">
@@ -14,11 +14,11 @@ $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
 $ pip2 install requests
-$ git clone https://github.com/Miixjackers/Gmbf
+$ git clone https://github.com/Miixjackers/WMBF
 ```
 #### Run script
 ```bash
-$ cd Gmbf
+$ cd WMBF
 $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
