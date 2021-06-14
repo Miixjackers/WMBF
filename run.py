@@ -104,6 +104,9 @@ def logo():
    |     \  /_____/ /    Y    \    |   \|     \   
    \___  /          \____|__  /______  /\___  /   
        \/                   \/       \/     \/ """)
+       
+       *Recoder : Wiiseeon. 
+       *Date        : 13 Juni 2021
 def bot_komen():
     try:
         token = open('login.txt', 'r').read()
